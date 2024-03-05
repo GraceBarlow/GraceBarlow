@@ -38,11 +38,12 @@ I'm passionate about leveraging data analysis and technology to solve business p
 # Work Experience Page
 
 * **University of Denver Analytics Project (January 2023 - November 2023):**
-  *Database Design: MS Access, ERD (Entity-Relationship Diagram)
-  *Database Migration: MS Access to SQL Server (SSMS)
-  *User Interface: C#, Visual Studio (connecting to SQL Server, data retrieval, visualization)
-  *ETL Implementation (Optional): Automating data acquisition, transformation, and loading (SSIS or Python/R)
-  *Data Visualization: Power BI/Power Pivot (interactive dashboards, insights)
+  
+  * Database Design: MS Access, ERD (Entity-Relationship Diagram)
+  * Database Migration: MS Access to SQL Server (SSMS)
+  * User Interface: C#, Visual Studio (connecting to SQL Server, data retrieval, visualization)
+  * ETL Implementation (Optional): Automating data acquisition, transformation, and loading (SSIS or Python/R)
+  * Data Visualization: Power BI/Power Pivot (interactive dashboards, insights)
 
 # Leadership and Community Involvement
 - Daniels Fund Scholarship Ambassador (April 2023 - Present)
