@@ -61,3 +61,7 @@ I'm passionate about leveraging data analysis and technology to solve business p
   *	Facilitated a seamless transition for incoming Daniels Fund scholars at the University of Denver, providing diligent support through robust collaboration with the Fund and university
     
 * Army ROTC, Website Manager (December 2020 – December 2021)
+  
+  *	Served in the Army Reserve Officer Training Corps with a focus on planning and executing training exercises, demonstrating strong leadership and management skills
+  * Fostered a culture of teamwork and accountability within the corps while providing mentorship and guidance to new cadets.
+
