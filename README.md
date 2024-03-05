@@ -52,12 +52,12 @@ I'm passionate about leveraging data analysis and technology to solve business p
   * ETL Implementation (Optional): Automating data acquisition, transformation, and loading (SSIS or Python/R)
   * Data Visualization: Power BI/Power Pivot (interactive dashboards, insights)
  
-  * **Highlights:** This project allowed me to showcase my proficiency in data management and visualization technologies. I developed valuable skills in data modeling, query writing, user interface design, and data analysis. Throughout the process, I honed my problem-solving, communication, time management, and critical thinking abilities. This experience provided me with a comprehensive understanding of the data management lifecycle, from design and implementation to visualization.
+  * **Highlights:** This project allowed me to showcase my proficiency in data management and visualization technologies. I developed valuable skills in data modeling, query writing, user interface design, and data analysis. Throughout the process, I honed my problem-solving, communication, time management, and critical thinking abilities. This experience provided me with a comprehensive understanding of the data management lifecycle, from design and implementation to visualization
 
 # Leadership and Community Involvement
 * Daniels Fund Scholarship Ambassador (April 2023 - Present)
   
-  *	Chosen for academic excellence, leadership skills, exemplary character, and involvement in the community.
+  *	Chosen for academic excellence, leadership skills, exemplary character, and involvement in the community
   *	Facilitated a seamless transition for incoming Daniels Fund scholars at the University of Denver, providing diligent support through robust collaboration with the Fund and university
     
 * Army ROTC, Website Manager (December 2020 – December 2021)
