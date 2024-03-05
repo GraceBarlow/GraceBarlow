@@ -1,35 +1,50 @@
----
-Title: "Grace Barlow's Portfolio"
-Output: html_document
----
+# Main Page
+
 ## About Me
-My name is Grace Barlow, a passionate and driven student pursuing a Bachelor of Science in Business Administration with a focus on Business Information & Analytics at the University of Denver, Daniels College of Business. I am also minoring in Computer Science and expected to graduate in June 2024.
 
-## Contact Information
-- Location: Denver, CO
-- Phone: 720-371-4573
-- Email: grace.barlow2024@gmail.com
-- LinkedIn: [linkedin.com/in/grace-barlow2024](https://www.linkedin.com/in/grace-barlow2024)
+Hi! I'm Grace Barlow, a recent graduate from the University of Denver's Daniels College of Business with a Bachelor of Science in Business Administration, Business Information & Analytics, and a minor in Computer Science. 
 
-## Education
-- University of Denver, Daniels College of Business
-  - Bachelor of Science in Business Administration, Business Information & Analytics
-  - Minor: Computer Science
-  - Relevant Classes: Data Structures, Database Management, Data Warehousing, Project Management, Optimization Modeling
+I'm passionate about leveraging data analysis and technology to solve business problems and create meaningful insights. I'm excited to embark on a career in Business Information & Analytics and contribute my skills and knowledge to a company that values innovation and collaboration.
 
----
-title: "Skills"
-output: html_document
----
+**Contact:**
 
-# Technical Skills
+* Email: grace.barlow2024@gmail.com
+* Phone: 720-371-4573
+* LinkedIn: [link to your LinkedIn profile]
 
-- Programming Languages: R, Python, SQL
-- Data Analysis: Data visualization, Machine Learning, Statistical Analysis
-- Tools: RStudio, Jupyter Notebook, Git, GitHub
+**Links:**
 
-# Soft Skills
+* Skills: [Link to skills page] (Replace with the actual link)
+* Work Examples: [Link to work examples page] (Replace with the actual link)
+* Work Experience: [Link to work experience page] (Replace with the actual link)
+* Honors and Awards: [Link to honors and awards page] (Replace with the actual link) (Optional)
+* Leadership and Community Involvement: [Link to leadership and community involvement page] (Replace with the actual link) (Optional)
 
-- Communication: Effective written and verbal communication
-- Teamwork: Collaborative problem-solving
-- Time Management: Ability to prioritize tasks and meet deadlines
+
+## Skills Page
+
+**Technical Skills:**
+
+* Programming Languages: Java, C, C++, C#, VBA, SQL, R, Python
+* Data Analysis and Visualization: PowerPivot, Power BI, Tableau (replace with your specific skills)
+* Database Management: Microsoft SQL Server
+
+**Soft Skills:**
+
+* Communication: Excellent written and verbal communication skills
+* Collaboration: Ability to work effectively in teams
+* Problem-solving: Strong analytical and problem-solving skills
+* Organization: Highly organized and detail-oriented
+* Time Management: Ability to manage time effectively and meet deadlines
+
+## Work Examples Page
+
+[Replace this section with details about your work examples, incorporating visuals, code snippets, and project descriptions. You can utilize code chunks for code snippets and embed images.]
+
+## Work Experience Page
+
+[Provide details about your work experiences, including projects, technologies used, accomplishments, and soft skills utilized. Go beyond dates and company names.]
+
+# (Optional) Honors and Awards, Leadership and Community Involvement
+
+[If you choose to include these sections, customize them with your relevant information and achievements.]
