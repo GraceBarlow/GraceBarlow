@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-### Hi there 👋
-
-<!--
-**GraceBarlow/GraceBarlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
-title: "Grace Barlow's Portfolio"
-output: html_document
----
-
-# About Me
+## About Me
 My name is Grace Barlow, a passionate and driven student pursuing a Bachelor of Science in Business Administration with a focus on Business Information & Analytics at the University of Denver, Daniels College of Business. I am also minoring in Computer Science and expected to graduate in June 2024.
 
 ## Contact Information
@@ -24,4 +14,3 @@ My name is Grace Barlow, a passionate and driven student pursuing a Bachelor of 
   - Bachelor of Science in Business Administration, Business Information & Analytics
   - Minor: Computer Science
   - Relevant Classes: Data Structures, Database Management, Data Warehousing, Project Management, Optimization Modeling
--->
