@@ -31,12 +31,8 @@ I'm passionate about leveraging data analysis and technology to solve business p
 
 ## Work Examples Page
 
-[Replace this section with details about your work examples, incorporating visuals, code snippets, and project descriptions. You can utilize code chunks for code snippets and embed images.]
+Data Mining and Visualization: file:///C:/Users/Grace/OneDrive%20-%20University%20of%20Denver/Desktop/DU%20Academics/Junior%20Year/Spring%202023/INFO%203200/Week%208/Class%2015/DashboardReportProject_Barlow.html
 
 ## Work Experience Page
 
 [Provide details about your work experiences, including projects, technologies used, accomplishments, and soft skills utilized. Go beyond dates and company names.]
-
-# (Optional) Honors and Awards, Leadership and Community Involvement
-
-[If you choose to include these sections, customize them with your relevant information and achievements.]
