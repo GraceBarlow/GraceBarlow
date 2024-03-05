@@ -10,18 +10,10 @@ I'm passionate about leveraging data analysis and technology to solve business p
 
 * Email: grace.barlow2024@gmail.com
 * Phone: 720-371-4573
-* LinkedIn: [link to your LinkedIn profile]
-
-**Links:**
-
-* Skills: [Link to skills page] (Replace with the actual link)
-* Work Examples: [Link to work examples page] (Replace with the actual link)
-* Work Experience: [Link to work experience page] (Replace with the actual link)
-* Honors and Awards: [Link to honors and awards page] (Replace with the actual link) (Optional)
-* Leadership and Community Involvement: [Link to leadership and community involvement page] (Replace with the actual link) (Optional)
+* LinkedIn: (https://www.linkedin.com/in/grace-barlow2024/)
 
 
-## Skills Page
+# Skills Page
 
 **Technical Skills:**
 
