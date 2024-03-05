@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm Grace Barlow, a recent graduate from the University of Denver's Daniels College of Business with a Bachelor of Science in Business Administration, Business Information & Analytics, and a minor in Computer Science. 
+Hi! I'm Grace Barlow, an upcoming graduate from the University of Denver's Daniels College of Business with a Bachelor of Science in Business Administration, Business Information & Analytics, and a minor in Computer Science. 
 
 I'm passionate about leveraging data analysis and technology to solve business problems and create meaningful insights. I'm excited to embark on a career in Business Information & Analytics and contribute my skills and knowledge to a company that values innovation and collaboration.
 
