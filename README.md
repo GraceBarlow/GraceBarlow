@@ -37,6 +37,13 @@ I'm passionate about leveraging data analysis and technology to solve business p
 
 # Work Experience Page
 
+* **Solomon Foundation (June 2023 - Present):**
+**Finance Intern**
+  * Encouraged the establishment of analytics practices through collaboration with the investments and loans teams
+  * Enhanced data quality and efficiency and accessibility through user-friendly dashboards
+  * Utilized CRM data using HubSpot
+  
+
 * **University of Denver Analytics Project (January 2023 - November 2023):**
   
   * Database Design: MS Access, ERD (Entity-Relationship Diagram)
