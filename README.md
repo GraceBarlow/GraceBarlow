@@ -35,8 +35,10 @@ I'm passionate about leveraging data analysis and technology to solve business p
 * **[Data Visualization using PowerBI:](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bdc1063d-15a8-3dab-bdb5-784712680a8c)** 
 * **[SQL Database Interface Using C#:](https://github.com/GraceBarlow/DatabaseInterface)**
 
-
-
 # Work Experience Page
 
 [Provide details about your work experiences, including projects, technologies used, accomplishments, and soft skills utilized. Go beyond dates and company names.]
+
+# Leadership and Community Involvement
+- Daniels Fund Scholarship Ambassador (April 2023 - Present)
+- Army ROTC, Website Manager (December 2020 – December 2021)
