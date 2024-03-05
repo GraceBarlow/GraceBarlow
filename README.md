@@ -31,9 +31,10 @@ I'm passionate about leveraging data analysis and technology to solve business p
 
 # Work Examples Page
 
-* **Data Mining and Visualization using R:** [Link Text](https://rpubs.com/GraceBarlow/1157487)
+* **Data Mining and Visualization using R:** [Data Mining and Visualization using R](https://rpubs.com/GraceBarlow/1157487)
 * **Data Visualization using PowerBI:** [Link Text](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bdc1063d-15a8-3dab-bdb5-784712680a8c)
 * **ETL Process:** [Link Text](https://github.com/GraceBarlow/ETL_Process)
+* **SQL Database Interface Using C#:** [Link Text](https://github.com/GraceBarlow/DatabaseInterface)
 
 
 
