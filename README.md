@@ -44,6 +44,8 @@ I'm passionate about leveraging data analysis and technology to solve business p
   * User Interface: C#, Visual Studio (connecting to SQL Server, data retrieval, visualization)
   * ETL Implementation (Optional): Automating data acquisition, transformation, and loading (SSIS or Python/R)
   * Data Visualization: Power BI/Power Pivot (interactive dashboards, insights)
+ 
+  * Highlights: This project allowed me to showcase my proficiency in data management and visualization technologies. I developed valuable skills in data modeling, query writing, user interface design, and data analysis. Throughout the process, I honed my problem-solving, communication, time management, and critical thinking abilities. This experience provided me with a comprehensive understanding of the data management lifecycle, from design and implementation to visualization.
 
 # Leadership and Community Involvement
 - Daniels Fund Scholarship Ambassador (April 2023 - Present)
