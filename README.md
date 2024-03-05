@@ -1,6 +1,6 @@
 ---
-title: "Grace Barlow's Portfolio"
-output: html_document
+Title: "Grace Barlow's Portfolio"
+Output: html_document
 ---
 ## About Me
 My name is Grace Barlow, a passionate and driven student pursuing a Bachelor of Science in Business Administration with a focus on Business Information & Analytics at the University of Denver, Daniels College of Business. I am also minoring in Computer Science and expected to graduate in June 2024.
