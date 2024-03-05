@@ -1,3 +1,7 @@
+---
+title: "Grace Barlow's Portfolio"
+output: html_document
+---
 ## About Me
 My name is Grace Barlow, a passionate and driven student pursuing a Bachelor of Science in Business Administration with a focus on Business Information & Analytics at the University of Denver, Daniels College of Business. I am also minoring in Computer Science and expected to graduate in June 2024.
 
@@ -12,3 +16,20 @@ My name is Grace Barlow, a passionate and driven student pursuing a Bachelor of 
   - Bachelor of Science in Business Administration, Business Information & Analytics
   - Minor: Computer Science
   - Relevant Classes: Data Structures, Database Management, Data Warehousing, Project Management, Optimization Modeling
+
+---
+title: "Skills"
+output: html_document
+---
+
+# Technical Skills
+
+- Programming Languages: R, Python, SQL
+- Data Analysis: Data visualization, Machine Learning, Statistical Analysis
+- Tools: RStudio, Jupyter Notebook, Git, GitHub
+
+# Soft Skills
+
+- Communication: Effective written and verbal communication
+- Teamwork: Collaborative problem-solving
+- Time Management: Ability to prioritize tasks and meet deadlines
