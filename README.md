@@ -29,7 +29,7 @@ I'm passionate about leveraging data analysis and technology to solve business p
 * Organization: Highly organized and detail-oriented
 * Time Management: Ability to manage time effectively and meet deadlines
 
-## Work Examples Page
+# Work Examples Page
 
 * **Data Mining and Visualization using R:** [Link Text](https://rpubs.com/GraceBarlow/1157487)
 * **Data Visualization using PowerBI:** [Link Text](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bdc1063d-15a8-3dab-bdb5-784712680a8c)
@@ -37,6 +37,6 @@ I'm passionate about leveraging data analysis and technology to solve business p
 
 
 
-## Work Experience Page
+# Work Experience Page
 
 [Provide details about your work experiences, including projects, technologies used, accomplishments, and soft skills utilized. Go beyond dates and company names.]
