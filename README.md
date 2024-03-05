@@ -31,7 +31,8 @@ I'm passionate about leveraging data analysis and technology to solve business p
 
 ## Work Examples Page
 
-Data Mining and Visualization: file:///C:/Users/Grace/OneDrive%20-%20University%20of%20Denver/Desktop/DU%20Academics/Junior%20Year/Spring%202023/INFO%203200/Week%208/Class%2015/DashboardReportProject_Barlow.html
+Data Mining and Visualization: https://rpubs.com/GraceBarlow/1157487 
+
 
 ## Work Experience Page
 
