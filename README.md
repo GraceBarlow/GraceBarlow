@@ -18,7 +18,7 @@ I'm passionate about leveraging data analysis and technology to solve business p
 **Technical Skills:**
 
 * Programming Languages: Java, C, C++, C#, VBA, SQL, R, Python
-* Data Analysis and Visualization: PowerPivot, Power BI, Tableau (replace with your specific skills)
+* Data Analysis and Visualization: PowerPivot, Power BI, Tableau
 * Database Management: Microsoft SQL Server
 
 **Soft Skills:**
